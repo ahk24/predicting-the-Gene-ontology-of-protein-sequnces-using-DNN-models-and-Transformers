@@ -1,0 +1,8 @@
+{
+    "fasta_file": "requirements/train.fasta",
+    "h5_file": "requirements/train_embeddings.h5",
+    "annotations_file": "requirements/train_set.tsv",
+    "cellular_component_model": "requirements/cellular_component.h5",
+    "molecular_function_model": "requirements/molecular_function.h5",
+    "biological_process_model": "requirements/molecular_function.h5"
+  }  
